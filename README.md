@@ -33,7 +33,6 @@ __Procedure__:
 7 — Demodulate each isolated channel (coherent) and low-pass filter to recover baseband
 __PROGRAM__:
 ```asm
-Radar
 clc;
 clear;
 close;
